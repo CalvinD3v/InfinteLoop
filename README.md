@@ -1,5 +1,5 @@
 # InfinteLoop (Boundless loop field)
-Dynamic and Reusable Formik Field
+Dynamic and Reusable Formik Field (Part of our react component library)
 ![image](https://github.com/CalvinD3v/InfinteLoop/assets/49398574/f2503681-8c7c-4c68-a264-09a5575933ac)
 
 
